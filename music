@@ -1,4 +1,5 @@
-<a href="music.html">
-                    <h2>🎶 Music Streaming</h2>
-                    <p>Stream your favorite music anytime, anywhere. Join now!</p>
-                </a>
+<a href="#">
+  <h2>🎶 Music Streaming</h2>
+  <p>Stream your favorite music anytime, anywhere. Join now!</p>
+</a>
+<script></script>
